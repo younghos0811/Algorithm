@@ -23,7 +23,7 @@ public class RopeNumber {
             if(thisNum <= 0)
                 minusList.add(thisNum);
             else if(thisNum > 1)
-                plustList.add(thisNum);
+                plustList.add/**/(thisNum);
             else
                 result++;
         }
