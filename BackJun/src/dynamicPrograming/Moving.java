@@ -27,15 +27,13 @@ public class Moving {
             for (int j = 0; j < col; j++) {
                 int preLeft = 0;
                 int preUp = 0;
-                int preCross = 0;
+                /* 대각선 삭제 : 이유는 대각선으로 오는거는 왼쪽이나 오른쪽으로 오는 경우 아니면은 값이 클수가 없음 (단 만약 사탕갯수가 음수인 칸이 있다면은 의미가 있음)*/
 
                 if(i > 0)
                     preLeft = maxValMap[i-1][j];
                 if(j > 0)
                     preUp = maxValMap[i][j-1];
-                if(i > 0 && j > 0)
-                    preCross = maxValMap[i-1][j-1];
-                maxValMap[i][j] = Math.max(Math.max(preLeft,preUp), preCross) + map[i][j];
+                maxValMap[i][j] = Math.max(preLeft,preUp) + map[i][j];
             }
         }
 
