@@ -11,13 +11,24 @@ public class Main {
 //        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         Scanner sc = new Scanner(System.in);
         int cnt = sc.nextInt();
-        int sum = 0;
+        double sum = 0;
+        double[] arr = new double[cnt];
+        double max = 0;
 
         for(int i = 0; i < cnt; i++) {
-            sum += sc.nextInt();
+            arr[i] = sc.nextInt();
+
+            if(arr[i] > max)
+                max = arr[i];
         }
-        double avg = (double)sum/cnt;
-        System.out.println(avg);
+
+        for(int i = 0; i < cnt; i++) {
+            sum += (arr[i]/max)*100;
+        }
+
+
+
+        double avg = sum/cnt;
         System.out.println(String.format("%.2f",avg));
 
     }
