@@ -1,7 +1,5 @@
 package math;
 
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
 import java.util.Scanner;
 
 public class GobSem {
@@ -17,7 +15,6 @@ public class GobSem {
     }
 
     private static long cal(long a ,long b ,long c) {
-
         if(b == 0)
             return 1;
 
