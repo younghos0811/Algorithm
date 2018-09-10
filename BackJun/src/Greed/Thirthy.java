@@ -21,7 +21,7 @@ public class Thirthy {
         boolean isThirth = false;
 
         for(int i = 0; i < arr.length; i++) {
-            intArr[i] = arr[i] - '0';
+            intArr[i] = arr[i] - '0'; /** char to int change **/
         }
 
         int sum = 0;
@@ -44,10 +44,5 @@ public class Thirthy {
             }
             System.out.println(sb.toString());
         }
-
-
-
-
-
     }
 }
