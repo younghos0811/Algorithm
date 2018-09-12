@@ -86,11 +86,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CountOfPaper.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CountOfPaper.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DvideNQ/CountOfPaper.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="488">
               <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CutTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/binarySearch/CutTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,18 +126,6 @@
             <state relative-caret-position="285">
               <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LCA.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tree/LCA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#440#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -196,6 +196,7 @@
         <option value="$PROJECT_DIR$/src/Greed/Thirthy.java" />
         <option value="$PROJECT_DIR$/src/Greed/SeekNessKnight.java" />
         <option value="$PROJECT_DIR$/src/DvideNQ/CountOfPaper.java" />
+        <option value="$PROJECT_DIR$/src/binarySearch/CutTree.java" />
       </list>
     </option>
   </component>
@@ -333,7 +334,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountOfPaper">
+  <component name="RunManager" selected="Application.CutTree">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -359,14 +360,14 @@
       <module name="BackJun" />
       <envs />
     </configuration>
-    <configuration name="NotPow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="CutTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="math.*" />
+          <option name="PATTERN" value="binarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="math.NotPow" />
+      <option name="MAIN_CLASS_NAME" value="binarySearch.CutTree" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -510,19 +511,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.NotPow" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Work" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Thirthy" />
-      <item index="3" class="java.lang.String" itemvalue="Application.SeekNessKnight" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CountOfPaper" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Work" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Thirthy" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SeekNessKnight" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CountOfPaper" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CutTree" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CountOfPaper" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SeekNessKnight" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Thirthy" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Work" />
-        <item index="4" class="java.lang.String" itemvalue="Application.NotPow" />
+        <item index="0" class="java.lang.String" itemvalue="Application.CutTree" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CountOfPaper" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SeekNessKnight" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Thirthy" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Work" />
       </list>
     </recent_temporary>
   </component>
@@ -562,12 +563,12 @@
       <workItem from="1535937742341" duration="37000" />
       <workItem from="1535983357090" duration="10015000" />
       <workItem from="1536584504929" duration="3940000" />
-      <workItem from="1536756695947" duration="1763000" />
+      <workItem from="1536756695947" duration="3517000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101560000" />
+    <option name="totallyTimeSpent" value="103314000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="44" y="23" width="1636" height="1027" extended-state="0" />
@@ -719,16 +720,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DvideNQ/NumberCard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DvideNQ/NumCard2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1126,6 +1117,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="488">
           <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binarySearch/CutTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
