@@ -4,7 +4,7 @@ package DataStructure;
  * stack이 가장 유용하게 쓰이는 케이스
  * 가능 여부는 계속 한칸씩 전진하면서 peek을확인하여서 그떄마다 뺴면됨.
  *
- * Goal의 맨 처음은 스택의 peek인것을 기억하자 ! 
+ * Goal의 맨 처음은 스택의 peek인것을 기억하자 !
  *
  */
 
