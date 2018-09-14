@@ -40,29 +40,24 @@ public class Agrinet_vCrooscal {
         parent = new int[cnt+1];
         List<Edge> edgeList = new ArrayList<>();
         int sum = 0;
-        int cmd = sc.nextInt();
 
-        for(int i = 1; i <= cmd; i++) {
-                Edge edge = new Edge();
-                edge.start = sc.nextInt();
-                edge.end = sc.nextInt();
-                edge.val = sc.nextInt();
-                edgeList.add(edge);
-        }
-
-        for(int i = 1; i<= cnt; i++)
+        for(int i = 1; i <= cnt; i++) {
             parent[i] = i;
+            for(int j = 1; j <= cnt; j++) {
+                int start = i;
+                int end = j;
+                int val = sc.nextInt();
 
-//        for(int i = 1; i <= cnt; i++) {
-//            parent[i] = i;
-//            for(int j = 1; j <= cnt; j++) {
-//                Edge edge = new Edge();
-//                edge.start = sc.nextInt();
-//                edge.end = sc.nextInt();
-//                edge.val = sc.nextInt();
-//                edgeList.add(edge);
-//            }
-//        }
+                if(val == 0)
+                    continue;
+
+                Edge edge = new Edge();
+                edge.start = start;
+                edge.end = end;
+                edge.val = val;
+                edgeList.add(edge);
+            }
+        }
 
         Collections.sort(edgeList);
 
