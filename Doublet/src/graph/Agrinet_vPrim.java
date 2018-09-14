@@ -10,7 +10,7 @@ package graph;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Agrinet {
+public class Agrinet_vPrim {
 
 
     public static void main(String[] args) throws IOException {
