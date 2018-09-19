@@ -1,4 +1,4 @@
-package Demo.Demo1;
+package Demo.K_Demo.Demo1;
 
 import java.io.BufferedReader;
 import java.io.IOException;

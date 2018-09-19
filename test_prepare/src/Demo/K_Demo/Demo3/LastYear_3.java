@@ -1,4 +1,4 @@
-package Demo.Demo3;
+package Demo.K_Demo.Demo3;
 
 import java.util.Arrays;
 import java.util.Scanner;

@@ -13,7 +13,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="LastYear_1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Demo/Demo1/LastYear_1.java">
+        <entry file="file://$PROJECT_DIR$/src/Demo/K_Demo/Demo1/LastYear_1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
               <caret line="16" column="37" lean-forward="false" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
@@ -45,8 +45,8 @@
       <file leaf-file-name="Solution3.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/K_Test/Test3/Solution3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            <state relative-caret-position="305">
+              <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -155,21 +155,7 @@
               <item name="test_prepare" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_prepare" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="K_Test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_prepare" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_prepare" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="K_Test" type="462c0819:PsiDirectoryNode" />
-              <item name="Test3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_prepare" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_prepare" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="K_Test" type="462c0819:PsiDirectoryNode" />
-              <item name="Test4" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -321,12 +307,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537357138643</updated>
-      <workItem from="1537357140280" duration="5694000" />
+      <workItem from="1537357140280" duration="6083000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5694000" />
+    <option name="totallyTimeSpent" value="6083000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="44" y="23" width="1636" height="1027" extended-state="6" />
@@ -374,7 +360,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Demo/Demo1/LastYear_1.java">
+    <entry file="file://$PROJECT_DIR$/src/Demo/K_Demo/Demo1/LastYear_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="16" column="37" lean-forward="false" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
@@ -424,8 +410,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/K_Test/Test3/Solution3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        <state relative-caret-position="305">
+          <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
           <folding />
         </state>
       </provider>

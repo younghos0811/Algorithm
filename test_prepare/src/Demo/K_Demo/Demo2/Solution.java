@@ -1,4 +1,4 @@
-package Demo.Demo2;
+package Demo.K_Demo.Demo2;
 
 import java.util.Scanner;
 
