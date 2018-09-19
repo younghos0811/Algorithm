@@ -1,4 +1,4 @@
-package Test.Test4;
+package K_Test.Test4;
 
 
 class Solution2 {

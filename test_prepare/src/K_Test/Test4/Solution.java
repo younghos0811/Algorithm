@@ -1,4 +1,4 @@
-package Test.Test4;
+package K_Test.Test4;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -55,11 +55,11 @@ class Solution {
 
             if(num == 0) {
                 foodList.set(nextIndex , num-1);
-                foodList.remo
+//                foodList.remo
                 continue;
             }
 
-            if(foodList.get())
+//            if(foodList.get())
 
             k--;
         }

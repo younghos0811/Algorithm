@@ -1,4 +1,4 @@
-package Test.Test2;
+package K_Test.Test2;
 
 public class Main {
     public static void main(String[] args) {
