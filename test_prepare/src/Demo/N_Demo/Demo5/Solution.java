@@ -34,7 +34,7 @@ public class Solution {
 
     public static void solution() {
         Scanner sc  = new Scanner(System.in);
-        int[] rateArr = new int[4];6
+        int[] rateArr = new int[4];
 
         for(int i = 2; i >= 0; i--) {
             rateArr[sc.nextInt()] = (int)Math.pow(1000,i);
