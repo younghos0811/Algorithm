@@ -1,5 +1,12 @@
 package Greed;
 
+/**
+ *
+ *  url : https://www.acmicpc.net/problem/1080
+ *
+ */
+
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

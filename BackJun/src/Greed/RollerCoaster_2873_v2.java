@@ -1,6 +1,13 @@
 package Greed;
 import java.util.*;
 
+/**
+ *
+ *  url : https://www.acmicpc.net/problem/2873
+ *
+ */
+
+
 public class RollerCoaster_2873_v2 {
     public static void append(StringBuilder s, char c, int cnt) {
         for (int i=0; i<cnt; i++) {
