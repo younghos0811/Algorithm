@@ -77,9 +77,9 @@ public class Interval {
             dp[start][end] = Math.abs(arr[end] - arr[start]);
         }
         else if(end - start == 2) {
-            divide[start][end] = start;
-            dp[start][end] = maxNum(start,end);
-        }
+        divide[start][end] = start;
+        dp[start][end] = maxNum(start,end);
+    }
         else {
             int max = 0;
             int dividePoint = start;
