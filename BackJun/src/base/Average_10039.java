@@ -9,8 +9,10 @@ public class Average_10039 {
 
         for(int i = 0; i < 5; i++) {
             int n = sc.nextInt();
+
             sum += n < 40 ? 40 : n;
         }
+
 
         System.out.println(sum/5);
     }
