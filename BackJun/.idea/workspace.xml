@@ -12,18 +12,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SelfCopyNum_2028.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/base/SelfCopyNum_2028.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Tournament_1057.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/math/Tournament_1057.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -76,8 +64,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FireShow_1773.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FireShow_1773.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/base/FireShow_1773.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordsLen_2743.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/base/WordsLen_2743.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
@@ -89,7 +87,7 @@
       <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10005">
+            <state relative-caret-position="9195">
               <caret line="667" column="15" lean-forward="false" selection-start-line="667" selection-start-column="15" selection-end-line="667" selection-end-column="15" />
               <folding />
             </state>
@@ -111,7 +109,7 @@
       <file leaf-file-name="Math.java" pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Math.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6930">
+            <state relative-caret-position="6120">
               <caret line="462" column="46" lean-forward="false" selection-start-line="462" selection-start-column="39" selection-end-line="462" selection-end-column="46" />
               <folding />
             </state>
@@ -180,6 +178,7 @@
         <option value="$PROJECT_DIR$/src/base/PlusOfMatrix_2738.java" />
         <option value="$PROJECT_DIR$/src/base/ChnageJinBub_2745.java" />
         <option value="$PROJECT_DIR$/src/base/FireShow_1773.java" />
+        <option value="$PROJECT_DIR$/src/base/WordsLen_2743.java" />
       </list>
     </option>
   </component>
@@ -211,7 +210,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -300,8 +300,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -332,7 +331,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FireShow_1773">
+  <component name="RunManager" selected="Application.WordsLen_2743">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -367,25 +366,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="base.FireShow_1773" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="BackJun" />
-      <envs />
-    </configuration>
-    <configuration name="GCD_1850_v2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="math.GCD_1850_v2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -443,6 +423,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="math.Tournament_1057" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BackJun" />
+      <envs />
+    </configuration>
+    <configuration name="WordsLen_2743" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="base.WordsLen_2743" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -529,19 +528,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.GCD_1850_v2" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PlusOfMatrix_2738" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ChnageJinBub_2745" />
-      <item index="4" class="java.lang.String" itemvalue="Application.FireShow_1773" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PlusOfMatrix_2738" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ChnageJinBub_2745" />
+      <item index="3" class="java.lang.String" itemvalue="Application.FireShow_1773" />
+      <item index="4" class="java.lang.String" itemvalue="Application.WordsLen_2743" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.FireShow_1773" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ChnageJinBub_2745" />
-        <item index="2" class="java.lang.String" itemvalue="Application.PlusOfMatrix_2738" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Test" />
-        <item index="4" class="java.lang.String" itemvalue="Application.GCD_1850_v2" />
+        <item index="0" class="java.lang.String" itemvalue="Application.WordsLen_2743" />
+        <item index="1" class="java.lang.String" itemvalue="Application.FireShow_1773" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ChnageJinBub_2745" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PlusOfMatrix_2738" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -573,12 +572,13 @@
       <workItem from="1539184309926" duration="5318000" />
       <workItem from="1539583371582" duration="922000" />
       <workItem from="1539742633271" duration="1454000" />
-      <workItem from="1539864327891" duration="1978000" />
+      <workItem from="1539864327891" duration="2228000" />
+      <workItem from="1539937663917" duration="221000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49237000" />
+    <option name="totallyTimeSpent" value="49708000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="44" y="23" width="1636" height="1027" extended-state="6" />
@@ -597,7 +597,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3688833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37327477" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -699,16 +699,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/base/SelfCopyNum_2028.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/math/GCD_1850.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -763,7 +753,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3300">
           <caret line="249" column="25" lean-forward="false" selection-start-line="249" selection-start-column="25" selection-end-line="249" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -853,7 +842,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3300">
           <caret line="249" column="25" lean-forward="false" selection-start-line="249" selection-start-column="25" selection-end-line="249" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -921,7 +909,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3735">
           <caret line="249" column="25" lean-forward="false" selection-start-line="249" selection-start-column="25" selection-end-line="249" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1030,7 +1017,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3300">
           <caret line="249" column="25" lean-forward="false" selection-start-line="249" selection-start-column="25" selection-end-line="249" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1054,7 +1040,7 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6930">
+        <state relative-caret-position="6120">
           <caret line="462" column="46" lean-forward="false" selection-start-line="462" selection-start-column="39" selection-end-line="462" selection-end-column="46" />
           <folding />
         </state>
@@ -1097,7 +1083,7 @@
     <entry file="file://$PROJECT_DIR$/src/base/Test.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10005">
+        <state relative-caret-position="9195">
           <caret line="667" column="15" lean-forward="false" selection-start-line="667" selection-start-column="15" selection-end-line="667" selection-end-column="15" />
           <folding />
         </state>
@@ -1122,6 +1108,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/base/FireShow_1773.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/base/WordsLen_2743.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
